@@ -18,9 +18,9 @@
   This is a command-line application that dynamically generates a professional README.md file from a user's input. 
   And allows the project creator to devote more time to work on the project.
 
-## Video:
+## Video Demonstration:
 
-
+https://user-images.githubusercontent.com/105332915/192744652-1daaeee7-a996-454b-9492-9b1e80517cf8.mp4
 
 ## Installation:
 
